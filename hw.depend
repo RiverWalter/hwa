@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1468759663 source:d:\cygwin32\home\hcduan\hw\src\helloworld.cpp
+	<iostream>
+	<vector>
+	"include/student.hpp"
+
+1468759227 d:\cygwin32\home\hcduan\hw\src\include\student.hpp
+	<iostream>
+
+1468759441 source:d:\cygwin32\home\hcduan\hw\src\stucent.cpp
+	"include/student.hpp"
+
