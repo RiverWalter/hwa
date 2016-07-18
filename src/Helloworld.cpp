@@ -11,7 +11,7 @@ int main()
 void TestStu()
 {
     vector<ClsStu> stu{{"Bob",80},{"Mary",90},
-        {"Martin",100},{"Tom",85}};
+        {"Martin",100},{"Tom",85},{"Kathy",88}};
     for (auto s:stu)
         s.Print();
 }
