@@ -29,7 +29,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="src/Helloworld.cpp" />
+		<Unit filename="src/include/student.hpp" />
+		<Unit filename="src/stucent.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
